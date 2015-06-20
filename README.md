@@ -1,1 +1,1 @@
-# web-animations-io2015
+# Web Animation Codelab I/O 2015
